@@ -1,0 +1,1 @@
+ML is how computers learn form data to discover patterns and make predictions.
